@@ -1,0 +1,87 @@
+{
+  "manifest_version": 3,
+  "name": "Atom One Dark Inspired",
+  "version": "1.0",
+  "description": "A Chrome theme inspired by the Atom One Dark theme from VS Code, featuring a dark gray background and vibrant accents.",
+  "theme": {
+    "colors": {
+      "frame": [
+        40,
+        44,
+        52
+      ],
+      "toolbar": [
+        40,
+        44,
+        52
+      ],
+      "tab_text": [
+        156,
+        220,
+        254
+      ],
+      "tab_background_text": [
+        187,
+        134,
+        192
+      ],
+      "bookmark_text": [
+        171,
+        178,
+        191
+      ],
+      "ntp_background": [
+        40,
+        44,
+        52
+      ],
+      "ntp_text": [
+        156,
+        220,
+        254
+      ],
+      "button_background": [
+        40,
+        44,
+        52,
+        0.2
+      ],
+      "omnibox_text": [
+        206,
+        131,
+        77
+      ],
+      "omnibox_background": [
+        40,
+        44,
+        52
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.37,
+        0.8,
+        0.64
+      ],
+      "frame": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "background_tab": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
